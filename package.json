@@ -1,0 +1,19 @@
+{
+  "name": "git-actions",
+  "version": "1.0.0",
+  "description": "git action practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeevSingh273/git-action.git"
+  },
+  "author": "Rajeev Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeevSingh273/git-action/issues"
+  },
+  "homepage": "https://github.com/RajeevSingh273/git-action#readme"
+}
